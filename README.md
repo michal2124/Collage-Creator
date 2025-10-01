@@ -23,7 +23,8 @@ Application has basic input validation functionality and informs user about inva
 ## How to use
 Clone the repo:<br>
 git clone https://github.com/michal2124/Collage-Creator.git<br>
-Run CollageCreator.py
+Run CollageCreator.py<br>
+*Paths correction may be needed for browse_files function
 
 ## Screenshots
 <img width="314" height="244" alt="Screenshot_main" src="https://github.com/user-attachments/assets/19a37401-e611-4c2f-9ced-44779fbe7ed8" />
