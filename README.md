@@ -8,7 +8,7 @@ Application has basic input validation functionality and informs user about inva
 - CollageCreator.py - main file with GUI app
 - Functions.py - file containing functions used to crop and paste images and optimize arrangement in a frame
 - Functions_tests.py - pytest test fucntions of the file above
-- Automate_crop.pt - quick script to crop and save example images from collections
+- Automate_crop.py - quick script to crop and save example images from collections
 - Qt_designer_windows - Qt5 files with applied windows
 - Pictures - example images and collections
 
